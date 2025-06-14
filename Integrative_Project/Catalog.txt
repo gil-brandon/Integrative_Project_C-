@@ -1,0 +1,30 @@
+M 1 Interstellar 169 SciFi 5 3202
+M 2 Parasite 132 Drama 4.2 1500
+M 3 Inception 148 Action 4.6 2100
+M 4 TheGodfather 175 Crime 4.9 3000
+M 5 SpiritedAway 125 Animation 4.5 1700
+M 6 Whiplash 106 Drama 4.7 1100
+M 7 TheMatrix 136 SciFi 4.8 2200
+M 8 Coco 105 Animation 4.4 1400
+M 9 Gladiator 155 Action 4.3 1800
+M 10 Amelie 122 Romance 4.1 1000
+S 11 BreakingBad 60 Drama 4.8 2000 5 62
+E 11 1 Pilot 58 4.1 800
+E 11 2 Cat'sCradle 50 4.2 650
+E 11 3 GrayMatter 48 4.3 700
+S 12 Dark 55 SciFi 4.4 1200 3 26
+E 12 1 Secrets 53 4.5 500
+E 12 2 Loop 60 4.6 600
+E 12 3 Origin 59 4.7 650
+S 13 TheOffice 22 Comedy 4.1 1400 9 201
+E 13 1 TheDundies 21 4.3 400
+E 13 2 DiversityDay 22 4 350
+E 13 3 HealthCare 22 3.8 300
+S 14 StrangerThings 50 SciFi 4.6 1800 4 34
+E 14 1 TheVanishing 47 4.4 600
+E 14 2 TheUpsideDown 52 4.5 650
+E 14 3 TheBathtub 49 4.6 700
+S 15 Friends 23 Comedy 4.2 1600 10 236
+E 15 1 ThePilot 23 4.2 300
+E 15 2 TheBlackout 24 4.3 280
+E 15 3 TheOneWithTheMonkey 24 4 250
